@@ -1,0 +1,4 @@
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp3.1\Labs.csprojAssemblyReference.cache
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfoInputs.cache
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfo.cs
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp3.1\Labs.csproj.CoreCompileInputs.cache

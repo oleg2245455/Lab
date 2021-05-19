@@ -1,0 +1,12 @@
+D:\DOCSO\GitHub\Lab\Labs\bin\Debug\netcoreapp2.0\Labs.deps.json
+D:\DOCSO\GitHub\Lab\Labs\bin\Debug\netcoreapp2.0\Labs.runtimeconfig.json
+D:\DOCSO\GitHub\Lab\Labs\bin\Debug\netcoreapp2.0\Labs.runtimeconfig.dev.json
+D:\DOCSO\GitHub\Lab\Labs\bin\Debug\netcoreapp2.0\Labs.dll
+D:\DOCSO\GitHub\Lab\Labs\bin\Debug\netcoreapp2.0\Labs.pdb
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.csprojAssemblyReference.cache
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.AssemblyInfoInputs.cache
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.AssemblyInfo.cs
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.csproj.CoreCompileInputs.cache
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.dll
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.pdb
+D:\DOCSO\GitHub\Lab\Labs\obj\Debug\netcoreapp2.0\Labs.genruntimeconfig.cache
